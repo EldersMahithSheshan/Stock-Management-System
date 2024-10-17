@@ -35,7 +35,9 @@ Get an overview of product quantities in stock at a glance. This feature helps b
 ---
 
 ## 📲 **Screenshots**
-*Screenshots of the Stock Management System will be added soon! Stay tuned for visual highlights of the system's user interface and functionality.*
+![1](https://github.com/user-attachments/assets/3f720e09-3605-4fd9-a0f4-835d90c0fbc7)
+![2](https://github.com/user-attachments/assets/ea55c6cc-e0dd-41af-98a9-bcdef5a1b505)
+
 
 ---
 
